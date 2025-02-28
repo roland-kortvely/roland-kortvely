@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @roland-kortvely
 - 👀 I’m interested in mobile development
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on Swift JVM support, to create editor for iPads
+- 🌱 I’m currently learning Kotlin and C# Avalonia UI
 - 📫 To reach me, check my web page https://rolandkortvely.dev
 
 <!---
